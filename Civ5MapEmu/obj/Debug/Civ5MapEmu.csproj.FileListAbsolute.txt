@@ -1,0 +1,10 @@
+c:\users\lixin\documents\visual studio 2013\Projects\Civ5MapEmu\Civ5MapEmu\bin\Debug\Civ5MapEmu.exe.config
+c:\users\lixin\documents\visual studio 2013\Projects\Civ5MapEmu\Civ5MapEmu\bin\Debug\Civ5MapEmu.exe
+c:\users\lixin\documents\visual studio 2013\Projects\Civ5MapEmu\Civ5MapEmu\bin\Debug\Civ5MapEmu.pdb
+c:\users\lixin\documents\visual studio 2013\Projects\Civ5MapEmu\Civ5MapEmu\obj\Debug\Civ5MapEmu.Properties.Resources.resources
+c:\users\lixin\documents\visual studio 2013\Projects\Civ5MapEmu\Civ5MapEmu\obj\Debug\Civ5MapEmu.csproj.GenerateResource.Cache
+c:\users\lixin\documents\visual studio 2013\Projects\Civ5MapEmu\Civ5MapEmu\obj\Debug\Civ5MapEmu.exe
+c:\users\lixin\documents\visual studio 2013\Projects\Civ5MapEmu\Civ5MapEmu\obj\Debug\Civ5MapEmu.pdb
+C:\Users\Lixin\Documents\Visual Studio 2013\Projects\Civ5MapEmu\Civ5MapEmu\obj\Debug\Civ5MapEmu.View.Form1.resources
+C:\Users\Lixin\Documents\Visual Studio 2013\Projects\Civ5MapEmu\Civ5MapEmu\obj\Debug\Civ5MapEmu.View.HexagonButton.resources
+C:\Users\Lixin\Documents\Visual Studio 2013\Projects\Civ5MapEmu\Civ5MapEmu\obj\Debug\Civ5MapEmu.csprojResolveAssemblyReference.cache
